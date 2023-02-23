@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz+Prado;I'm+19+years+old;I'm+from+Brazil;I+Studant+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BibizPrado&bg_color=947547&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
