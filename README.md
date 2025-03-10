@@ -1,15 +1,33 @@
-## Hi👋, I´m Beatriz
-🔭 I’m currently working on @Totvs<br>🌱 I’m currently learning Java<br>👯 I’m looking to collaborate on Java<br>💬 Ask me about Java and people<br>📫 How to reach me www.linkedin.com/beatrizzn-prado<br>⚡ Fun fact 💜🐱
+<div align="center">
 
+  <h1 style="color: #283729;">Olá, eu sou [Seu Nome] 👋</h1>
+  
+  <p style="color: #3a0758;">Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar meus projetos e contribuições. Estou sempre buscando aprender e compartilhar conhecimento.</p>
+  
+  <h2 style="color: #283729;">Sobre mim</h2>
+  <p style="color: #3a0758;">Sou desenvolvedor(a) apaixonado(a) por **[Tecnologias que você domina]**, e estou sempre em busca de novos desafios. Aqui no meu GitHub, você encontrará:</p>
+  
+  <ul>
+    <li>Projetos pessoais</li>
+    <li>Contribuições em projetos open source</li>
+    <li>Aprendizados contínuos</li>
+  </ul>
+  
+  <h2 style="color: #283729;">🚀 Tecnologias que utilizo</h2>
+  
+  <p style="color: #3a0758;">- **Linguagens**: Python, JavaScript, Java, etc.</p>
+  <p style="color: #3a0758;">- **Frameworks**: React, Node.js, Django, etc.</p>
+  <p style="color: #3a0758;">- **Outros**: Git, Docker, Kubernetes, etc.</p>
 
-# 🟣Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beatrizzn-prado/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beatrizzn.prado@gmail.com) 
+  <h2 style="color: #283729;">📫 Como me encontrar</h2>
 
-# 🟣Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=purple) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 🟣GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BibizPrado&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BibizPrado&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibizPrado&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <ul>
+    <li><a href="https://www.linkedin.com" style="color: #3a0758;">LinkedIn</a></li>
+    <li><a href="https://www.seusite.com" style="color: #3a0758;">Website</a></li>
+  </ul>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <h2 style="color: #283729;">🤝 Vamos colaborar</h2>
+
+  <p style="color: #3a0758;">Se você está interessado(a) em colaborar em algum projeto ou quer trocar ideias sobre tecnologia, não hesite em me chamar!</p>
+
+</div>
