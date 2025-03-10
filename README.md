@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi👋, I´m Beatriz
 🔭 I’m currently working on @Totvs<br>🌱 I’m currently learning Java<br>👯 I’m looking to collaborate on Java<br>💬 Ask me about Java and people<br>📫 How to reach me www.linkedin.com/beatrizzn-prado<br>⚡ Fun fact 💜🐱
 
 
